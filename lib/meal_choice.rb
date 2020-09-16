@@ -9,5 +9,3 @@ meal_choice('carrots', 'string beans', 'lentils')
 
 
 
-# Your code here
-# For output purposes, use "puts" instead of "print" or "
